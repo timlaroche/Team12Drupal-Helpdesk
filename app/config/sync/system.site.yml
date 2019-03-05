@@ -1,0 +1,14 @@
+uuid: 003f5b8c-e0ac-4d97-919a-6596c4aa0bc7
+name: 'Make-It-All Helpdesk'
+mail: site@makeitall.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
